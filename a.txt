@@ -1,2 +1,4 @@
 added a new 
 second line added locally
+
+fourth line to be gitadd
